@@ -1,0 +1,5 @@
+scripts/
+temp/
+venv
+logs/
+utils/__pycache__/
